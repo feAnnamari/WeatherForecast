@@ -1,0 +1,7 @@
+{
+    "require": {
+        "paquettg/php-html-parser": "2.0.2",
+    },
+    "require-dev": {
+    }
+}
